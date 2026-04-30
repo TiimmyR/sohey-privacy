@@ -1,6 +1,6 @@
 # Privacy Policy – SoHey
 
-**Effective date:** 14 April 2026
+**Effective date:** 30 April 2026
 
 SoHey Limited ("we", "our", or "us") operates the SoHey mobile application (the "App").
 
@@ -33,7 +33,7 @@ We collect location data to enable core features of the App, including:
 * Enabling check-in functionality  
 * Verifying in-person interactions ("meets")  
 
-Location data may be stored on our servers when required to support verified interactions.
+Location data is only collected while you are actively using the App and may be stored where required to support verified interactions.
 
 ### User Interaction Data
 
@@ -108,11 +108,27 @@ We may take appropriate action, including restricting or blocking accounts, to p
 
 ---
 
-## 6. Data Retention
+## 6. Data Retention and Account Deletion
 
 We retain your data for as long as your account is active.
 
-If you request deletion of your account, we will delete your data within a reasonable timeframe, except where retention is required for legitimate business or legal purposes.
+### Account Deletion
+
+You may request deletion of your account at any time from within the App.
+
+When your account is deleted:
+
+* Your personal data (including profile information and photos) is permanently removed  
+* Your identity is anonymised in any past verified meets  
+* Other users will see “Someone” with no identifying information  
+
+Deletion is irreversible.
+
+If you would like a copy of your data, please contact **info@sohey.app** before deleting your account. Data cannot be recovered after deletion.
+
+### Verified Meet Records
+
+To preserve the integrity of verified real-world interactions, records of meets may be retained in anonymised form after account deletion.
 
 ---
 
